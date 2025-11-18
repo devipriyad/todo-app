@@ -2,6 +2,3 @@ Make soup
 Clean the code
 Good codeMake the room
 Master Python!
-Last todo
-Buy plantsMy newest todo is added
-Add lastly
